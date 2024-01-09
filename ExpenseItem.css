@@ -1,0 +1,20 @@
+
+.expense-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.expense-item h2 {
+  font-size: 20px;
+  color: #333;
+}
+
+.expense-item_price {
+  color: rgb(35, 61, 35);
+}
+
+.expense-tracker {
+  max-width: 600px;
+  margin: 20px auto;
+}
